@@ -11,9 +11,12 @@
 * Useful links
 - [[https://tex.stackexchange.com/a/74354][Spacing between text]]
 - [[https://alvinalexander.com/blog/post/latex/create-your-own-commands-in-latex-using-newcommand/][LaTeX commands/functions]] (=renewcommand=, =newcommand=, and =def=)
-- 
-- 
+- [[https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols][symbols]]
+- [[https://en.wikibooks.org/wiki/LaTeX/Tables][tabular]]
+- [[http://timmurphy.org/2011/04/24/latex-align-right-or-left/][hfill aligning]]
+* icons
 
+Fontawesome makes nice icons that work with LaTeX, the commands look like: \faTwitter and \faGithub
 
 * References
   bibliographystyle:apalike
