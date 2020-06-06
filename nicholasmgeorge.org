@@ -1,0 +1,35 @@
+#+TITLE: Nicholas M George
+#+DATE: 2020-06-06
+#+OPTIONS: toc:nil author:nil title:nil date:nil num:nil ^:{} \n:1 todo:nil
+
+#+PROPERTY: header-args :eval never-export
+
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+LATEX_HEADER: \hypersetup{colorlinks=true,citecolor=black,linkcolor=black,urlcolor=blue,linkbordercolor=blue,pdfborderstyle={/S/U/W 1}}
+#+LATEX_HEADER: \usepackage[round]{natbib}
+#+LATEX_HEADER: \renewcommand{\bibsection}
+#+LATEX: % big help https://alvinalexander.com/blog/post/latex/create-your-own-commands-in-latex-using-newcommand/
+\newcommand{\water}{H$_2$O}
+\newcommand{\cvitem}[]
+
+#+LATEX: \sffamily
+#+LATEX: \noindent\huge{\bf Nicholas M George}}\\\hfill
+#+LATEX: \large{University of Colorado Anschutz Medical Campus}\\
+#+LATEX: \large{Cell and Developmental Biology}\\\hfill
+#+LATEX: \large{nicholas.m.george@cuanschutz.edu}\\\hfill
+#+LATEX: \large{nickgeorge.net}\\\hfill
+#+LATEX: \hline
+
+\noindent\rule{\textwidth}{1pt}
+* Education
+2016-2021\qquad University of Colorado Anschutz Medical Campus Aurora, CO more text that should wrap, does it stay aligned with the UC?
+** University of Col
+*Doctor of Philosophy in /Neuroscience/* /In progress/ 
+/Thesis advisors:/ *Diego Restrepo PhD* and *Wendy Macklin PhD*
+** Virginia Commonwealth University School of Medicine Richmond, VA
+*2016 Master of Science in /Anatomy and Neurobiology/*
+/Thesis advisor:/ *Jeffrey L Dupree PhD*
+Title: *Resolution of Inflammation Rescues Axon Initial Segment Disruption*
+** Virginia Tech, College of Agriculture and Life Science Blacksburg, VA
+*2012 Bachelor of Science in /Human Nutrition Foods and Exercise/*
+\noindent\rule{\textwidth}{1pt}
