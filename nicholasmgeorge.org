@@ -18,7 +18,7 @@
 #+LATEX: \large{University of Colorado Anschutz Medical Campus}\\
 #+LATEX: \large{Cell and Developmental Biology}\\\hfill
 #+LATEX: \faEnvelope \: \href{mailto:nicholas.m.george@cuanschutz.edu}{nicholas.m.george@cuanschutz.edu}\\\hfill
-#+LATEX: \href{https://nickgeorge.net}{https://nickgeorge.net}\\\hfill
+#+LATEX: \faGlobe \: \href{https://nickgeorge.net}{https://nickgeorge.net}\\\hfill
 
 \setlength{\tabcolsep}{12pt}
 
@@ -41,6 +41,7 @@ Advisor: Jeffrey Dupree\\
 Virginia Tech Blacksburg, VA
 
 \end{tabular}
+
 * Funding
 
 \begin{tabular}{lp{0.8\textwidth}}
@@ -49,8 +50,27 @@ Virginia Tech Blacksburg, VA
 \end{tabular}
 
 * Publications
+\begin{tabular}{lp{0.8\textwidth}}
+2018& Gould, E. A., Busquet, N., Shepherd, D., Dietz, R. M., Herson, P. S., de Souza, F. M. S., Li, A., \textbf{George, N. M.}, Restrepo, D., and Macklin, W. B. (2018). Mild myelin disruption elicits early alteration in behavior and proliferation in the subventricular zone. \textit{eLife}, 7:e34783.\\
 
-* Honors and awards
+2017& Benusa, S. D., \textbf{George, N. M.}, Sword, B. A., DeVries, G. H., and Dupree, J. L. (2017). Acute neuroinflammation induces AIS structural plasticity in a NOX2-dependent manner. \textit{Journal of Neuroinflammation}, 14(1):116.\\
+\end{tabular}
+* Invited Talks
+\begin{tabular}{lp{0.8\textwidth}}
+2019& CU Anschutz Neuroscience retreat, Keystone, CO\newline "Glial and axonal adaptations to sensory deprivation in the olfactory system" \newline Gordon Research Seminar: Glial Biology, Ventura, CA\newline "Investigating glial and axonal adaptations to sensory deprivation in the olfactory system"\\
+2018& Translational Science, Distinguished Oral Presentation, Washington, DC\newline "A novel multiphoton microscopy method for neuronavigation in deep brain stimulation surgery"
+\newline Neurosurgery Research Meeting, Aurora, CO, \newline Characterizing autofluorescence in human STN for deep brain neuronavigation
+\end{tabular}
+* Poster Presentations
+\begin{tabular}{lp{0.8\textwidth}}
+
+\end{tabular}
+* Honors and Awards
+\begin{tabular}{lp{0.8\textwidth}}
+2018& Wellcome Fund Trainee Travel Award for Clinical and Translational Research 2018, Washington DC\\
+2016& Visiting Scholar Award for Excellence in the Natural and Computational Sciences. Poster and research summary presented at The William and Mary Graduate Research Symposium, Williamsburg, VA \\
+2015& Poster presentation award at the Virginia Symposium on Brain Immunology and Glia, Richmond VA
+\end{tabular}
 * Software development
 * Skills and Experience
 
