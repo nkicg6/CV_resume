@@ -7,8 +7,11 @@
 #+LATEX_HEADER: \usepackage[round]{natbib}
 #+LATEX_HEADER: \renewcommand{\bibsection}
 #+ARCHIVE: daily_archive.org::datetree/* From master todo
+* About
+This document is written in LaTeX with a little org-mode syntax mixed in. I use =org-mode= to export and compile to PDF. The =.tex= file is machine generated as part of the compilation process, so I don't take any responsibility for it!
+I primarily edit =nicholasmgeorge.org= and compile to =nicholasmgeorge.pdf=.
 
-* Useful links
+* Useful links for LaTeX
 - [[https://tex.stackexchange.com/a/74354][Spacing between text]]
 - [[https://alvinalexander.com/blog/post/latex/create-your-own-commands-in-latex-using-newcommand/][LaTeX commands/functions]] (=renewcommand=, =newcommand=, and =def=)
 - [[https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols][symbols]]
@@ -21,9 +24,3 @@
 * icons
 
 Fontawesome makes nice icons that work with LaTeX, the commands look like: \faTwitter and \faGithub
-
-* References
-  bibliographystyle:apalike
-  bibliography:~/Dropbox/bibliography/zotero-library.bib
-
-

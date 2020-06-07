@@ -88,6 +88,7 @@ Virginia Tech, Blacksburg, VA
 :END:
 
 \begin{tabular}{lp{0.8\textwidth}}
+2020& Association for Chemoreceptive Science, Remote\\
 2019& Gordon Research Conference: Glial Biology, Ventura, CA\newline Association for Chemoreceptive Science, Bonita Springs, FL\newline Rocky Mountain Regional Neuroscience Group, Aurora, CO\\
 2018& Translational Science, Washington, DC\\
 2017& CU Anschutz Neuroscience Retreat, Estes Park, CO\\
@@ -107,14 +108,18 @@ Virginia Tech, Blacksburg, VA
 :PROPERTIES:
 :CUSTOM_ID: software-development
 :END:
+\begin{tabular}{lp{0.8\textwidth}}
+Lab-utility-plugins& I built several small tools and scripts to help lab members and myself simplify common microscopy image analysis tasks such as blinding images and image conversions/manipulations. The source and documentation for these tools are \href{https://github.com/Macklin-Lab/imagej-microscopy-scripts}{freely available} and they are distributed via the Fiji update site \href{https://imagej.github.io/list-of-update-sites/}{Lab-utility-plugins}.\\
+ABF Explorer& \href{https://github.com/nkicg6/ABF_Explorer}{ABF Explorer} is a simple GUI to allow for fast visualization of Axon Binary Format (ABF) electrophsiology data and metadata. ABF Explorer is written with python using PyQt and pyqtgraph for interactive graphics, while ABF parsing is done with the \href{https://github.com/swharden/pyABF}{pyABF} library.\\
+Website& I built my personal \href{https://nickgeorge.net}{website} using Clojure, a functional lisp which runs on the JVM. I write about programming and science on my website.\\
 
+\end{tabular}
 * Other Skills, Experience, and Outreach
 :PROPERTIES:
 :CUSTOM_ID: other-skills-experience-outreach
 :END:
-
 \begin{tabular}{lp{0.8\textwidth}}
-2020& \textbf{Software Carpentry Instructor Training} \newline I attended a \href{https://software-carpentry.org/}{Software Carpentry} workshop when I first started my Ph.D. and it helped me tremendously with data analysis and organization. I would like to lead Software Carpentry seminars and help other researchers adopt techniques to improve experimental data gathering and analysis.\\
+2020-& \textbf{Software Carpentry Instructor Training} \newline I attended a \href{https://software-carpentry.org/}{Software Carpentry} workshop when I first started my Ph.D. and it helped me tremendously with data analysis and organization. I would like to lead Software Carpentry seminars to help other researchers adopt techniques to improve experimental data gathering and analysis.\\
 2017-2018& \textbf{CU Neuroscience Outreach}\newline
 I was involved with the CU Neuroscience outreach program. We organized a yearly outreach event for pre-kindergarten to high school students at the Denver Science museum, featuring interactive demos illustrating how sensory systems and neurons worked. I wrote a simple RaspberryPi application with a Tkinter GUI interface to control a thermal camera and email photos of the students to demonstrate snake "heat vision". The project was called \href{https://github.com/nkicg6/thermalsnap}{SnakeSnap}.\\
 2016-2018& \textbf{CU Anschutz Reproducible Research Network} \newline Co-founded the \href{https://ucd-reproducible-research-clinic.github.io/members.html}{CU Anschutz Reproducible Research Network}\newline This was a short-lived organization meant to provide tutorials and resources to help other researchers with data analysis and statistical computing needs. The RRN was set up in a bi-weekly "clinic" setting, where we would give a short presentation on a reproducible research tool (mostly in the R programming language ecosystem) and would then host office hours for researchers. Initially this was a popular event, but became difficult to maintain early in my PhD work.\\
