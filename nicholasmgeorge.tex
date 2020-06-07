@@ -1,4 +1,4 @@
-% Created 2020-06-06 Sat 17:16
+% Created 2020-06-07 Sun 10:42
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -18,6 +18,7 @@
 \usepackage{titlesec}
 \usepackage{fontawesome}
 \hypersetup{colorlinks=true,citecolor=black,linkcolor=black,urlcolor=blue,linkbordercolor=blue,pdfborderstyle={/S/U/W 1}}
+\usepackage{fancyhdr}
 \usepackage[round]{natbib}
 \renewcommand{\bibsection}
 \date{}
@@ -31,9 +32,12 @@
  pdflang={English}}
 \begin{document}
 
-% big help https://alvinalexander.com/blog/post/latex/create-your-own-commands-in-latex-using-newcommand/
 \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{2em}{}[{\titlerule[1.5pt]}]
-
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{NM George \thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 \sffamily
 \noindent\huge{\bf Nicholas M George}}\\\hfill
 \large{University of Colorado Anschutz Medical Campus}\\
@@ -45,7 +49,7 @@
 
 \renewcommand{\arraystretch}{1.5}\\
 \section*{Education}
-\label{sec:org377d5bb}
+\label{sec:org32425cc}
 
 \begin{tabular}{lp{0.8\textwidth}}
 
@@ -65,7 +69,7 @@ Virginia Tech Blacksburg, VA
 \end{tabular}
 
 \section*{Funding}
-\label{sec:org2ac8890}
+\label{sec:org2c961b0}
 
 \begin{tabular}{lp{0.8\textwidth}}
 2019-2022& \href{https://projectreporter.nih.gov/project_info_details.cfm?aid=9909888&icde=50328886&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=}{1F31 DC018459-01} \newline NIH/NIDCD \newline "Investigating axonal and glial adaptations to sensory manipulations in the olfactory system" \newline Role: PI \\
@@ -73,33 +77,39 @@ Virginia Tech Blacksburg, VA
 \end{tabular}
 
 \section*{Publications}
-\label{sec:orgdb976af}
+\label{sec:orge7e7b66}
 \begin{tabular}{lp{0.8\textwidth}}
 2018& Gould, E. A., Busquet, N., Shepherd, D., Dietz, R. M., Herson, P. S., de Souza, F. M. S., Li, A., \textbf{George, N. M.}, Restrepo, D., and Macklin, W. B. (2018). Mild myelin disruption elicits early alteration in behavior and proliferation in the subventricular zone. \textit{eLife}, 7:e34783.\\
 
 2017& Benusa, S. D., \textbf{George, N. M.}, Sword, B. A., DeVries, G. H., and Dupree, J. L. (2017). Acute neuroinflammation induces AIS structural plasticity in a NOX2-dependent manner. \textit{Journal of Neuroinflammation}, 14(1):116.\\
 \end{tabular}
 \section*{Invited Talks}
-\label{sec:org663548d}
+\label{sec:org01a987f}
 \begin{tabular}{lp{0.8\textwidth}}
 2019& CU Anschutz Neuroscience retreat, Keystone, CO\newline "Glial and axonal adaptations to sensory deprivation in the olfactory system" \newline Gordon Research Seminar: Glial Biology, Ventura, CA\newline "Investigating glial and axonal adaptations to sensory deprivation in the olfactory system"\\
 2018& Translational Science, Distinguished Oral Presentation, Washington, DC\newline "A novel multiphoton microscopy method for neuronavigation in deep brain stimulation surgery"
-\newline Neurosurgery Research Meeting, Aurora, CO, \newline Characterizing autofluorescence in human STN for deep brain neuronavigation
+\newline All Neurosurgery Research Meeting, Aurora, CO \newline Characterizing autofluorescence in human STN for deep brain neuronavigation
 \end{tabular}
 \section*{Poster Presentations}
-\label{sec:orge0e1b6f}
+\label{sec:org5c6f73b}
 \begin{tabular}{lp{0.8\textwidth}}
-
+2019& Gordon Research Conference: Glial Biology\newline Association for Chemoreceptive Science, Bonita Springs, FL\newline Rocky Mountain Regional Neuroscience Group, Aurora, CO\\
+2018& Translational Science, Washington, DC\\
+2017& CU Anschutz Neuroscience Retreat, Estes Park, CO\\
+2016& William and Mary Graduate Research Symposium, Williamsburg, VA
 \end{tabular}
 \section*{Honors and Awards}
-\label{sec:orgb6fd04c}
+\label{sec:orgbab95e4}
 \begin{tabular}{lp{0.8\textwidth}}
 2018& Wellcome Fund Trainee Travel Award for Clinical and Translational Research 2018, Washington DC\\
 2016& Visiting Scholar Award for Excellence in the Natural and Computational Sciences. Poster and research summary presented at The William and Mary Graduate Research Symposium, Williamsburg, VA \\
 2015& Poster presentation award at the Virginia Symposium on Brain Immunology and Glia, Richmond VA
 \end{tabular}
 \section*{Software development}
-\label{sec:org515e5de}
-\section*{Skills and Experience}
-\label{sec:orgff5d790}
+\label{sec:org9310dae}
+\section*{Other Skills, Experience, and Outreach}
+\label{sec:org275f485}
+\begin{tabular}{lp{0.8\textwidth}}
+2020& Software Carpentries Instructor Training
+\end{tabular}
 \end{document}

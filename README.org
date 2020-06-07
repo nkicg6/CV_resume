@@ -14,6 +14,10 @@
 - [[https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols][symbols]]
 - [[https://en.wikibooks.org/wiki/LaTeX/Tables][tabular]]
 - [[http://timmurphy.org/2011/04/24/latex-align-right-or-left/][hfill aligning]]
+- [[https://www.overleaf.com/learn/latex/Headers_and_footers][Headers and footers]]
+- [[https://piotr.blog/2010/05/13/emacs-as-the-ultimate-latex-editor/][LaTeX for Emacs]] (someday I'll use this)
+  - For now I just use Org-mode (org-export latex-pdf to view changes, as my docs are small and compile quickly)
+
 * icons
 
 Fontawesome makes nice icons that work with LaTeX, the commands look like: \faTwitter and \faGithub
