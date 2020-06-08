@@ -8,7 +8,9 @@
 #+LATEX_HEADER: \renewcommand{\bibsection}
 #+ARCHIVE: daily_archive.org::datetree/* From master todo
 * About
-This document is written in LaTeX with a little org-mode syntax mixed in. I use =org-mode= to export and compile to PDF. The =.tex= file is machine generated as part of the compilation process, so I don't take any responsibility for it!
+
+This document is written in LaTeX with a little org-mode syntax mixed in. I use =org-mode= to export and compile to PDF. The =.tex= file is machine generated as part of the compilation process.
+
 I primarily edit =nicholasmgeorge.org= and compile to =nicholasmgeorge.pdf=.
 
 * Useful links for LaTeX
