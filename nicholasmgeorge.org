@@ -35,7 +35,7 @@
 
 \begin{tabular}{lp{0.8\textwidth}}
 
-2016-& \textbf{Ph.D. Neuroscience} \newline 
+2016-& \textbf{Ph.D. Candidate, Neuroscience} \newline 
 University of Colorado, Anschutz Medical Campus, Aurora, CO \newline 
 Thesis: "Excitable axonal domains adapt to olfactory sensory experience in adults"\newline 
 Advisors: Diego Restrepo and Wendy Macklin\\
@@ -88,7 +88,6 @@ Virginia Tech, Blacksburg, VA
 :END:
 
 \begin{tabular}{lp{0.8\textwidth}}
-2020& Association for Chemoreceptive Science, Remote\\
 2019& Gordon Research Conference: Glial Biology, Ventura, CA\\
 & Association for Chemoreceptive Science, Bonita Springs, FL\\
 & Rocky Mountain Regional Neuroscience Group, Aurora, CO\\
@@ -102,7 +101,7 @@ Virginia Tech, Blacksburg, VA
 :END:
 
 \begin{tabular}{lp{0.8\textwidth}}
-2018& Wellcome Fund Trainee Travel Award for Clinical and Translational Research Conference, Washington, DC\\
+2018& Wellcome Trust Trainee Travel Award for Clinical and Translational Research Conference, Washington, DC\\
 2016& Visiting Scholar Award for Excellence in the Natural and Computational Sciences. Poster and research summary presented at The William and Mary Graduate Research Symposium, Williamsburg, VA \\
 2015& Poster presentation award at the Virginia Symposium on Brain Immunology and Glia, Richmond, VA
 \end{tabular}
@@ -113,7 +112,7 @@ Virginia Tech, Blacksburg, VA
 
 \begin{tabular}{lp{0.73\textwidth}}
 Lab-utility-plugins& A collection of tools and scripts to help lab members and myself simplify common microscopy image analysis tasks such as blinding images and image conversions/manipulations. The source and documentation for these tools are \href{https://github.com/Macklin-Lab/imagej-microscopy-scripts}{freely available} and they are distributed via the Fiji update site \href{https://imagej.github.io/list-of-update-sites/}{Lab-utility-plugins}.\\
-ABF Explorer& \href{https://github.com/nkicg6/ABF_Explorer}{ABF Explorer} is a GUI to allow for fast visualization of Axon Binary Format (ABF) electrophysiology data and metadata. ABF Explorer is written with Python using PyQt and pyqtgraph for interactive graphics, while ABF parsing is done with the \href{https://github.com/swharden/pyABF}{pyABF} library.\\
+ABF Explorer& \href{https://github.com/nkicg6/ABF_Explorer}{ABF Explorer} is a GUI to allow for fast visualization of Axon Binary Format (ABF) electrophysiology data and metadata. ABF Explorer is written with Python using PyQt and pyqtgraph for interactive graphics.\\
 Website& My personal \href{https://nickgeorge.net}{website} is written with Clojure, a functional lisp hosted on the JVM. I write about programming and science on my website.\\
 \end{tabular}
 * Other Skills, Experience, and Outreach
