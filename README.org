@@ -11,8 +11,9 @@
 
 This document is written in LaTeX with a little org-mode syntax mixed in. I use =org-mode= to export and compile to PDF. The =.tex= file is machine generated as part of the compilation process.
 
-I primarily edit =nicholasmgeorge.org= and compile to =nicholasmgeorge.pdf=.
-
+** format notes
+- I primarily edit =nicholasmgeorge.org= and compile to =nicholasmgeorge.pdf=.
+- eLife format and Zotero for citations
 * Useful links for LaTeX
 - [[https://tex.stackexchange.com/a/74354][Spacing between text]]
 - [[https://alvinalexander.com/blog/post/latex/create-your-own-commands-in-latex-using-newcommand/][LaTeX commands/functions]] (=renewcommand=, =newcommand=, and =def=)
