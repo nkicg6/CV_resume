@@ -50,6 +50,23 @@ Virginia Tech, Blacksburg, VA
 
 \end{tabular}
 
+* Publications
+:PROPERTIES:
+:CUSTOM_ID: publications
+:END:
+
+\begin{tabular}{lp{0.8\textwidth}}
+2021& \textbf{George NM}, Macklin WB, Restrepo D. 2021. Excitable axonal domains adapt to sensory deprivation in the olfactory system (preprint). Neuroscience. doi:10.1101/2021.01.25.428132\\
+
+2020& Losacco J, \textbf{George NM}, Hiratani N, Restrepo D. 2020. The Olfactory Bulb Facilitates Use of Category Bounds for Classification of Odorants in Different Intensity Groups. Front Cell Neurosci 14:613635. doi:10.3389/fncel.2020.613635\\
+
+& Benusa SD, \textbf{George NM}, Dupree JL. 2020. Microglial heterogeneity: distinct cell types or differential functional adaptation? Neuroimmunology and Neuroinflammation 2020. doi:10.20517/2347-8659.2020.03\\
+
+2018& Gould EA, Busquet N, Shepherd D, Dietz RM, Herson PS, de Souza FMS, Li A, \textbf{George NM}, Restrepo D, Macklin WB, Simoes de Souza FM, Li A, George NM, Restrepo D, Macklin WB. 2018. Mild myelin disruption elicits early alteration in behavior and proliferation in the subventricular zone. eLife 7:e34783. doi:10.7554/elife.34783\\
+
+2017& Benusa SD, \textbf{George NM}, Sword BA, DeVries GH, Dupree JL. 2017. Acute neuroinflammation induces AIS structural plasticity in a NOX2-dependent manner. J Neuroinflammation 14:116. doi:10.1186/s12974-017-0889-3\\
+
+\end{tabular}
 * Funding
 :PROPERTIES:
 :CUSTOM_ID: funding
@@ -60,21 +77,6 @@ Virginia Tech, Blacksburg, VA
 2017-2018& TL1 TR001082 \newline Colorado Clinical and Translational Sciences Institute \newline "Neuronavigation with a fiber-coupled microscope"\newline Role: Pre-doctoral Fellow
 \end{tabular}
 
-* Publications
-:PROPERTIES:
-:CUSTOM_ID: publications
-:END:
-
-\begin{tabular}{lp{0.8\textwidth}}
-2020& Losacco J, \textbf{George NM}, Hiratani N, Restrepo D. 2020. The Olfactory Bulb Facilitates Use of Category Bounds for Classification of Odorants in Different Intensity Groups. Front Cell Neurosci 14:613635. doi:10.3389/fncel.2020.613635\\
-
-& Benusa SD, \textbf{George NM}, Dupree JL. 2020. Microglial heterogeneity: distinct cell types or differential functional adaptation? Neuroimmunology and Neuroinflammation 2020. doi:10.20517/2347-8659.2020.03\\
-
-2018& Gould EA, Busquet N, Shepherd D, Dietz RM, Herson PS, de Souza FMS, Li A, \textbf{George NM}, Restrepo D, Macklin WB, Simoes de Souza FM, Li A, George NM, Restrepo D, Macklin WB. 2018. Mild myelin disruption elicits early alteration in behavior and proliferation in the subventricular zone. eLife 7:e34783. doi:10.7554/elife.34783\\
-
-2017& Benusa SD, \textbf{George NM}, Sword BA, DeVries GH, Dupree JL. 2017. Acute neuroinflammation induces AIS structural plasticity in a NOX2-dependent manner. J Neuroinflammation 14:116. doi:10.1186/s12974-017-0889-3\\
-
-\end{tabular}
 * Invited Talks
 :PROPERTIES:
 :CUSTOM_ID: invited-talks
@@ -121,14 +123,14 @@ Lab-utility-plugins& A collection of tools and scripts to help lab members and m
 ABF Explorer& \href{https://github.com/nkicg6/ABF_Explorer}{ABF Explorer} is a GUI to allow for fast visualization of Axon Binary Format (ABF) electrophysiology data and metadata. ABF Explorer is written with Python using PyQt and pyqtgraph for interactive graphics.\\
 Website& My personal \href{https://nickgeorge.net}{website} is written with Clojure, a functional lisp hosted on the JVM. I write about programming and science on my website.\\
 \end{tabular}
-* Other Skills, Experience, and Outreach
+* Skills, Experience, and Outreach
 :PROPERTIES:
 :CUSTOM_ID: other-skills-experience-outreach
 :END:
 \begin{tabular}{lp{0.8\textwidth}}
 2020-& \textbf{Software Carpentry Instructor} \newline Certified \href{https://software-carpentry.org/}{Software Carpentry} instructor. I became an instructor because their workshops were very helpful when I first started my PhD and I want to help other researchers adopt techniques to improve experimental data gathering and analysis.\\
 2017-2018& \textbf{CU Neuroscience Outreach}\newline
-I was involved with the CU Neuroscience outreach program. We organized a yearly outreach event for pre-kindergarten to high school students at the Denver Science museum, featuring interactive demos illustrating how sensory systems and neurons worked. I wrote a simple RaspberryPi application with a Tkinter GUI to control a thermal camera and email photos of the students to demonstrate snake "heat vision". The project was called \href{https://github.com/nkicg6/thermalsnap}{SnakeSnap}.\\
+I was involved with the CU Neuroscience outreach program. We organized a yearly outreach event for pre-kindergarten to high school students at the Denver Science museum, featuring interactive demos illustrating how sensory systems and neurons worked. I wrote a simple RaspberryPi application with a Tkinter GUI to control a thermal camera and email photos of the students to demonstrate snake "heat vision". The project was called SnakeSnap.\\
 2016-2018& \textbf{CU Anschutz Reproducible Research Network} \newline Co-founded the \href{https://ucd-reproducible-research-clinic.github.io/members.html}{CU Anschutz Reproducible Research Network}\newline This was an organization meant to provide tutorials and resources to help other researchers with data analysis and statistical computing needs. The RRN was set up in a bi-weekly "clinic" setting, where we would give a short presentation on a reproducible research tool (mostly in the R programming language ecosystem) and would then host office hours for researchers.\\
 \end{tabular}
 
